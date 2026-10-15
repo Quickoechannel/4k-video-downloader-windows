@@ -7,9 +7,9 @@
 # 4K Video Downloader 6.5 “for Windows: 4K, playlists, subtitles” [v6.5.25]
 
 <p>
-  <a href="https://moggydayprogram.com/programs/4k-video-downloader"><img src="docs/media/shot-1.jpg" alt="4K Video Downloader playlist" width="280"></a>
-  <a href="https://moggydayprogram.com/programs/4k-video-downloader"><img src="docs/media/shot-2.jpg" alt="4K Video Downloader quality" width="280"></a>
-  <a href="https://moggydayprogram.com/programs/4k-video-downloader"><img src="docs/media/shot-3.jpg" alt="4K Video Downloader about" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader"><img src="docs/media/shot-1.jpg" alt="4K Video Downloader quality" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader"><img src="docs/media/shot-2.jpg" alt="4K Video Downloader queue" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader"><img src="docs/media/shot-3.jpg" alt="4K Video Downloader subtitles" width="280"></a>
 </p>
 
 MoggyDay keeps one stable URL for 4K Video Downloader: EN / RU. YouTube and Vimeo in 4K, playlists, subtitles. 228 MB, Windows x64.
