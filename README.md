@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://quickoechannel.github.io/4k-video-downloader-windows/) picks English or Russian from the browser. Switch: [English](https://quickoechannel.github.io/4k-video-downloader-windows/?lang=en) · [Русский](https://quickoechannel.github.io/4k-video-downloader-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader"><img src="docs/media/preview.jpg" alt="4K Downloader preview" width="640"></a>
+</p>
+
 4K Video Downloader · MoggyDay · 6.5 · v6.5.25
 
 # 4K Video Downloader 6.5 “for Windows: 4K, playlists, subtitles” [v6.5.25]
